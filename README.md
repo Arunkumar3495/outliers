@@ -1,0 +1,2 @@
+# outliers
+Using IQR methods
